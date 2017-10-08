@@ -4,7 +4,7 @@
 	{
 		"name": "Process All Remaining Files and Folders",
 		"stepType": 1,
-		"uuidString": "654CE883-F0C7-4161-AABE-02320762772D"
+		"uuidString": "75800EAD-F9BE-4EB6-BA28-46BAB8D40954"
 		}
 	],
 "creatorBuild": "25900",
@@ -20,70 +20,6 @@
 		"oA": 2,
 		"oAP": "\/index-START.html",
 		"oF": 0
-		},
-	"\/sounds\/boom.wav": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/sounds\/boom.wav",
-		"oF": 0
-		},
-	"\/sounds\/clap.wav": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/sounds\/clap.wav",
-		"oF": 0
-		},
-	"\/sounds\/hihat.wav": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/sounds\/hihat.wav",
-		"oF": 0
-		},
-	"\/sounds\/kick.wav": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/sounds\/kick.wav",
-		"oF": 0
-		},
-	"\/sounds\/openhat.wav": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/sounds\/openhat.wav",
-		"oF": 0
-		},
-	"\/sounds\/ride.wav": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/sounds\/ride.wav",
-		"oF": 0
-		},
-	"\/sounds\/snare.wav": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/sounds\/snare.wav",
-		"oF": 0
-		},
-	"\/sounds\/tink.wav": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/sounds\/tink.wav",
-		"oF": 0
-		},
-	"\/sounds\/tom.wav": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/sounds\/tom.wav",
-		"oF": 0
-		},
-	"\/style.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/style-min.css",
-		"oF": 0,
-		"oS": 3
 		}
 	},
 "hooks": [
@@ -91,10 +27,10 @@
 "manualImportLinks": {
 	},
 "projectAttributes": {
-	"creationDate": 528562841,
-	"displayValue": "01 - JavaScript Drum Kit",
+	"creationDate": 529165480,
+	"displayValue": "04 - Array Cardio Day 1",
 	"displayValueWasSetByUser": 0,
-	"iconImageName": "meme-greg"
+	"iconImageName": "meme-ron"
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
